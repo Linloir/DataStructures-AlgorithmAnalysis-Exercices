@@ -1,4 +1,4 @@
-﻿//3.3 Swap two adjacent elements only by adjusting pointers
+﻿//3.3.a Swap two adjacent elements in a single list only by adjusting pointers
 //Jonathan Zhang @ 2021/4/6
 
 #include "link.h"
